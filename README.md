@@ -5,4 +5,4 @@ Haar Cascade approach is used to detect the number plate of the Russian cars.
 
 #### Car_plate_2.jpg can be used as a test case.
 
-#### Russian_car_number_plate_recognition.ipynb is notebook in which whole procedure applied to localize the object. 
+#### Russian_car_number_plate_recognition.ipynb is a notebook in which whole procedure applied to detect the object. 
